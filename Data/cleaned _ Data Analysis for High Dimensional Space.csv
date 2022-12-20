@@ -1,0 +1,106 @@
+age,gender,education,marital_status,income,spending,spending as a percentage of income
+16,Male,High school,Single,1.5,1.5,1.0
+22,Male,Undergraduate,Single,10.0,7.4,0.74
+30,Female,Master,Married,40.0,18.0,0.45
+27,Female,Undergraduate,Single,18.0,12.0,0.6666666666666666
+18,Female,High school,Single,8.0,5.0,0.625
+42,Male,Undergraduate,Married,40.0,28.0,0.7
+27,Female,Master,Married,27.0,15.0,0.5555555555555556
+46,Female,Master,Married,80.0,35.0,0.4375
+28,Male,High school,Single,23.0,10.0,0.43478260869565216
+32,Male,Master,Divorced,43.0,30.0,0.6976744186046512
+21,Female,Undergraduate,Together,5.0,4.5,0.9
+23,Female,Master,Together,7.0,5.0,0.7142857142857143
+22,Male,Undergraduate,Together,7.5,4.5,0.6
+24,Male,Undergraduate,Together,15.0,10.0,0.6666666666666666
+26,Male,Undergraduate,Married,15.0,10.0,0.6666666666666666
+24,Female,Master,Single,0.0,5.0,1.0
+32,Male,PhD or higher,Married,30.0,20.0,0.6666666666666666
+19,Female,High school,Together,3.5,2.0,0.5714285714285714
+23,Male,Undergraduate,Together,15.0,14.0,0.9333333333333333
+29,Female,Master,Married,35.0,20.0,0.5714285714285714
+27,Female,Master,Married,30.0,25.0,0.8333333333333334
+20,Male,Undergraduate,Single,5.0,4.5,0.9
+35,Female,Master,Married,48.0,30.0,0.625
+20,Male,Undergraduate,Single,3.0,2.4,0.7999999999999999
+28,Male,Master,Together,30.0,25.0,0.8333333333333334
+29,Female,Undergraduate,Married,25.0,20.0,0.8
+24,Female,Undergraduate,Together,8.0,7.0,0.875
+28,Female,Undergraduate,Single,23.0,16.0,0.6956521739130435
+31,Female,Master,Married,41.5,30.5,0.7349397590361446
+21,Male,Undergraduate,Together,30.0,18.0,0.6
+27,Male,Master,Single,15.0,10.0,0.6666666666666666
+26,Female,Master,Married,14.0,12.0,0.8571428571428571
+22,Female,Undergraduate,Together,10.0,7.5,0.75
+22,Male,High school,Together,6.0,4.5,0.75
+31,Male,Master,Married,25.0,20.0,0.8
+21,Male,Undergraduate,Together,7.5,5.0,0.6666666666666666
+30,Female,Master,Married,20.0,14.0,0.7
+23,Male,Undergraduate,Together,20.0,12.0,0.6
+26,Male,Master,Together,10.0,5.0,0.5
+23,Male,Master,Single,48.0,30.0,0.625
+25,Female,Master,Married,30.0,15.0,0.5
+26,Male,Undergraduate,Divorced,20.0,13.5,0.675
+22,Female,Undergraduate,Single,11.0,6.5,0.5909090909090909
+26,Female,Master,Together,35.0,12.0,0.34285714285714286
+31,Male,Undergraduate,Married,20.0,15.5,0.775
+26,Male,Undergraduate,Married,10.0,8.5,0.85
+21,Female,Undergraduate,Single,4.0,4.0,1.0
+33,Female,Master,Divorced,33.0,27.0,0.8181818181818182
+29,Female,Undergraduate,Married,16.0,10.5,0.65625
+28,Male,Undergraduate,Married,20.0,13.5,0.675
+30,Male,PhD or higher,Married,35.0,20.0,0.5714285714285714
+25,Female,Undergraduate,Married,12.0,5.0,0.4166666666666667
+34,Male,Master,Married,40.0,26.8,0.67
+25,Female,Master,Married,25.0,20.0,0.8
+20,Female,Undergraduate,Single,6.0,6.0,1.0
+30,Male,Master,Married,70.0,40.0,0.5714285714285714
+32,Male,High school,Divorced,10.0,9.8,0.9800000000000001
+22,Female,High school,Together,12.0,9.0,0.75
+25,Male,Undergraduate,Together,25.0,15.0,0.6
+24,Male,Master,Together,20.0,19.0,0.95
+24,Male,Undergraduate,Single,18.0,16.0,0.8888888888888888
+23,Female,Master,Together,30.0,20.0,0.6666666666666666
+21,Male,Undergraduate,Single,4.0,3.5,0.875
+22,Male,Undergraduate,Together,0.0,3.5,1.0
+33,Male,Undergraduate,Married,30.0,25.7,0.8566666666666667
+22,Female,Master,Together,0.0,4.5,1.0
+27,Male,Undergraduate,Together,26.0,14.0,0.5384615384615384
+24,Male,Undergraduate,Single,15.0,10.5,0.7
+17,Female,High school,Together,2.0,2.0,1.0
+23,Female,Undergraduate,Single,13.0,10.0,0.7692307692307693
+20,Female,High school,Single,0.0,3.0,1.0
+25,Male,Undergraduate,Together,15.0,12.0,0.8
+25,Male,Undergraduate,Together,7.0,5.0,0.7142857142857143
+25,Female,Undergraduate,Single,13.0,10.5,0.8076923076923077
+24,Female,Undergraduate,Married,6.0,3.0,0.5
+26,Female,Master,Together,40.0,25.0,0.625
+25,Male,High school,Together,15.0,10.0,0.6666666666666666
+25,Female,Master,Single,18.0,10.0,0.5555555555555556
+24,Male,Undergraduate,Together,13.0,10.0,0.7692307692307693
+22,Female,High school,Together,5.0,4.0,0.8
+22,Female,Undergraduate,Together,12.0,7.0,0.5833333333333334
+26,Female,Undergraduate,Married,15.0,12.0,0.8
+29,Male,Master,Together,60.0,45.0,0.75
+25,Male,Undergraduate,Single,7.0,5.0,0.7142857142857143
+30,Female,Undergraduate,Married,20.0,15.0,0.75
+25,Male,Undergraduate,Together,16.0,7.0,0.4375
+18,Male,High school,Single,5.0,4.0,0.8
+19,Female,High school,Married,10.0,8.0,0.8
+24,Male,High school,Single,8.0,4.0,0.5
+19,Female,High school,Together,6.0,4.0,0.6666666666666666
+22,Male,Undergraduate,Single,6.0,5.5,0.9166666666666666
+25,Female,Undergraduate,Married,16.0,8.0,0.5
+22,Male,High school,Single,5.0,4.0,0.8
+24,Female,High school,Together,7.0,5.0,0.7142857142857143
+22,Male,High school,Single,6.0,5.0,0.8333333333333334
+22,Male,High school,Married,6.0,5.0,0.8333333333333334
+16,Male,High school,Single,3.0,2.0,0.6666666666666666
+24,Male,Master,Together,20.0,10.0,0.5
+40,Male,Undergraduate,Married,100.0,50.0,0.5
+32,Male,Master,Married,50.0,40.0,0.8
+22,Female,High school,Single,5.0,5.0,1.0
+30,Male,Undergraduate,Married,42.0,30.0,0.7142857142857143
+25,Male,Master,Together,30.0,20.0,0.6666666666666666
+22,Female,Undergraduate,Single,17.0,10.0,0.5882352941176471
+22,Male,High school,Single,6.0,2.0,0.3333333333333333
